@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/VR_Room_s20275_Marek_Rogucki.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
